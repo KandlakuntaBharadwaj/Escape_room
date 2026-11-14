@@ -2,7 +2,7 @@
 # Escape Room
 
 An interactive Escape Room project developed as a team project.
-
+ok
 ## Project Structure
 
 - frontend – User interface
